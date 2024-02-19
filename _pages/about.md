@@ -35,7 +35,6 @@ My research mainly focuses on the trustworthy graph/geometric learning (domain a
 Deyu Zou*, **Shikun Liu***, Siqi Miao, Victor Fung, Shiyu Chang, Pan Li \\
 <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/GDL_DS"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
-
 </div>
 </div>
 
@@ -46,19 +45,15 @@ Deyu Zou*, **Shikun Liu***, Siqi Miao, Victor Fung, Shiyu Chang, Pan Li \\
 **Shikun Liu**, Tianchun Li, Yongbin Feng, Nhan Tran, Han Zhao, Qiu Qiang, Pan Li. **ICML 2023**\\
 <a href="https://proceedings.mlr.press/v202/liu23u.html"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2723&color=blue"> </a>
 <a href="https://github.com/Graph-COM/StruRW"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
-
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EPJC</div><img src='images/StruRW.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
 
 [Semi-supervised graph neural networks for pileup noise removal](https://link.springer.com/article/10.1140/epjc/s10052-022-11083-5) \\
 Tianchun Li*, **Shikun Liu***, Yongbin Feng*, Garyfallia Paspalaki, Nhan V. Tran, Miaoyuan Liu, Pan Li **The European Physical Journal C** and **NeurIPS 2021 AI4Science**\\
 <a href="https://link.springer.com/article/10.1140/epjc/s10052-022-11083-5"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=EPJC&color=blue"> </a>
 <a href="https://openreview.net/forum?id=kTIngiqLU-X"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=NeurIPS%2721&color=blue"> </a>
-</div>
-</div>
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
