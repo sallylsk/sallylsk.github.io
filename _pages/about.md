@@ -43,8 +43,8 @@ Deyu Zou*, **Shikun Liu***, Siqi Miao, Victor Fung, Shiyu Chang, Pan Li \\
 
 [Structural Re-weighting Improves Graph Domain Adaptation](https://arxiv.org/abs/2306.03221) \\
 **Shikun Liu**, Tianchun Li, Yongbin Feng, Nhan Tran, Han Zhao, Qiu Qiang, Pan Li. **ICML 2023**\\
-<a href="https://github.com/Graph-COM/StruRW"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <a href="https://proceedings.mlr.press/v202/liu23u.html"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2723&color=blue"></a>
+<a href="https://github.com/Graph-COM/StruRW"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 
 </div>
 </div>
