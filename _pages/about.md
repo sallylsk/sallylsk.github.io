@@ -32,7 +32,7 @@ My research mainly focuses on the trustworthy graph/geometric learning (domain a
 <div class='paper-box-text' markdown="1">
 
 [GDL-DS: A Benchmark for Geometric Deep Learning under Distribution Shifts](https://arxiv.org/abs/2310.08677) \\
-Deyu Zou*, **Shikun Liu***, Siqi Miao, Victor Fung, Shiyu Chang, Pan Li \\
+Deyu Zou\*, **Shikun Liu\***, Siqi Miao, Victor Fung, Shiyu Chang, Pan Li \\
 <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/GDL_DS"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
@@ -51,7 +51,7 @@ Deyu Zou*, **Shikun Liu***, Siqi Miao, Victor Fung, Shiyu Chang, Pan Li \\
 
 
 [Semi-supervised graph neural networks for pileup noise removal](https://link.springer.com/article/10.1140/epjc/s10052-022-11083-5) \\
-Tianchun Li*, **Shikun Liu***, Yongbin Feng*, Garyfallia Paspalaki, Nhan V. Tran, Miaoyuan Liu, Pan Li **The European Physical Journal C** and **NeurIPS 2021 AI4Science**
+Tianchun Li\*, **Shikun Liu\***, Yongbin Feng\*, Garyfallia Paspalaki, Nhan V. Tran, Miaoyuan Liu, Pan Li **The European Physical Journal C** and **NeurIPS 2021 AI4Science**
 <a href="https://link.springer.com/article/10.1140/epjc/s10052-022-11083-5"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=EPJC&color=blue"></a>
 <a href="https://openreview.net/forum?id=kTIngiqLU-X"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=NeurIPS%2721&color=blue"></a>
 
