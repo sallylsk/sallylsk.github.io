@@ -28,11 +28,11 @@ My research mainly focuses on the trustworthy graph/geometric learning (domain a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/StruRW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/StruRW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structural Re-weighting Improves Graph Domain Adaptation](https://arxiv.org/abs/2306.03221) \\
-**Shikun Liu**, Tianchun Li, Yongbin Feng, Nhan Tran, Han Zhao, Qiu Qiang, Pan Li. **ICLR 2023**\\
+**Shikun Liu**, Tianchun Li, Yongbin Feng, Nhan Tran, Han Zhao, Qiu Qiang, Pan Li. **ICML 2023**\\
 <a href="https://arxiv.org/abs/2306.03221"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/StruRW"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 
