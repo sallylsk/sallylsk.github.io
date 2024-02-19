@@ -44,16 +44,16 @@ Deyu Zou*, **Shikun Liu***, Siqi Miao, Victor Fung, Shiyu Chang, Pan Li \\
 [Structural Re-weighting Improves Graph Domain Adaptation](https://arxiv.org/abs/2306.03221) \\
 **Shikun Liu**, Tianchun Li, Yongbin Feng, Nhan Tran, Han Zhao, Qiu Qiang, Pan Li. **ICML 2023**\\
 <a href="https://github.com/Graph-COM/StruRW"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
-<a href="https://proceedings.mlr.press/v202/liu23u.html"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2723&color=blue"> </a>
+<a href="https://proceedings.mlr.press/v202/liu23u.html"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2723&color=blue"></a>
 
 </div>
 </div>
 
 
 [Semi-supervised graph neural networks for pileup noise removal](https://link.springer.com/article/10.1140/epjc/s10052-022-11083-5) \\
-Tianchun Li*, **Shikun Liu***, Yongbin Feng*, Garyfallia Paspalaki, Nhan V. Tran, Miaoyuan Liu, Pan Li **The European Physical Journal C** and **NeurIPS 2021 AI4Science**\\
-<a href="https://link.springer.com/article/10.1140/epjc/s10052-022-11083-5"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=EPJC&color=blue"> </a>
-<a href="https://openreview.net/forum?id=kTIngiqLU-X"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=NeurIPS%2721&color=blue"> </a>
+Tianchun Li*, **Shikun Liu***, Yongbin Feng*, Garyfallia Paspalaki, Nhan V. Tran, Miaoyuan Liu, Pan Li **The European Physical Journal C** and **NeurIPS 2021 AI4Science**
+<a href="https://link.springer.com/article/10.1140/epjc/s10052-022-11083-5"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=EPJC&color=blue"></a>
+<a href="https://openreview.net/forum?id=kTIngiqLU-X"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=NeurIPS%2721&color=blue"></a>
 
 
 <!-- # 🎖 Honors and Awards
