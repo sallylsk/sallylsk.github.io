@@ -28,6 +28,16 @@ My research mainly focuses on the trustworthy graph/geometric learning (domain a
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Pair-Align.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pairwise Alignment Improves Graph Domain Adaptation](https://arxiv.org/abs/2403.01092) \\
+**Shikun Liu**, Deyu Zou, Han Zhao, Pan Li \\
+<a href="https://arxiv.org/abs/2403.01092"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/Pair-Align"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/gdlds.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
