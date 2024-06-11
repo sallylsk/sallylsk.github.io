@@ -24,7 +24,7 @@ My research mainly focuses on the trustworthy graph/geometric learning (domain a
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Our paper [Pair-Align](https://arxiv.org/abs/2403.01092) gets accepted by ICML'24 Spotlight!
+- *2024.06*: &nbsp;🎉🎉 Our paper [Pair-Align](https://arxiv.org/abs/2403.01092) gets accepted by ICML'24 (spotlight)! See you in Vienna :)
 - *2023.04*: &nbsp;🎉🎉 Our paper [StruRW](https://proceedings.mlr.press/v202/liu23u.html) gets accepted by ICML'23!
 
 
@@ -32,11 +32,11 @@ My research mainly focuses on the trustworthy graph/geometric learning (domain a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Spotlight</div><img src='images/Pair-Align.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 </div><img src='images/Pair-Align.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pairwise Alignment Improves Graph Domain Adaptation](https://arxiv.org/abs/2403.01092) \\
-**Shikun Liu**, Deyu Zou, Han Zhao, Pan Li \\
+**Shikun Liu**, Deyu Zou, Han Zhao, Pan Li. **ICML 2024 (spotlight)** \\
 <a href="https://arxiv.org/abs/2403.01092"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/Pair-Align"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
