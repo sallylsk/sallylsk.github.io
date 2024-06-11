@@ -24,8 +24,9 @@ My research mainly focuses on the trustworthy graph/geometric learning (domain a
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Our paper [Pair-Align](https://arxiv.org/abs/2403.01092) gets accepted by ICML'24 Spotlight!
 - *2023.04*: &nbsp;🎉🎉 Our paper [StruRW](https://proceedings.mlr.press/v202/liu23u.html) gets accepted by ICML'23!
-- *2023.06*: &nbsp;🎉🎉 Our paper [Pair-Align](https://arxiv.org/abs/2403.01092) gets accepted by ICML'23 Spotlight!
+
 
 
 
