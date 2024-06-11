@@ -24,11 +24,14 @@ My research mainly focuses on the trustworthy graph/geometric learning (domain a
 
 
 # 🔥 News
-- *2023.04*: &nbsp;🎉🎉 Our paper [StruRW](https://proceedings.mlr.press/v202/liu23u.html) gets accepted by ICML'23! 
+- *2023.04*: &nbsp;🎉🎉 Our paper [StruRW](https://proceedings.mlr.press/v202/liu23u.html) gets accepted by ICML'23!
+- *2023.06*: &nbsp;🎉🎉 Our paper [Pair-Align](https://arxiv.org/abs/2403.01092) gets accepted by ICML'23 Spotlight!
+
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/Pair-Align.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Spotlight</div><img src='images/Pair-Align.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pairwise Alignment Improves Graph Domain Adaptation](https://arxiv.org/abs/2403.01092) \\
