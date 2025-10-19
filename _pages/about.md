@@ -35,55 +35,58 @@ Also, I am currently looking for summer 2026 internship, I’d greatly appreciat
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv </div><img src='images/Pair-Align.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv </div><img src='images/Struc-Emb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Struc-EMB: The Potential of Structure-Aware Encoding in Language Embeddings](https://arxiv.org/abs/2510.08774) \\
 **Shikun Liu**, Haoyu Wang, Mufei Li, Pan Li. \\
-<a href="https://arxiv.org/abs/2403.01092"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/Graph-COM/Pair-Align"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<a href="https://arxiv.org/abs/2510.08774"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/Struc-Emb"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 D&B </div><img src='images/Pair-Align.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 D&B </div><img src='images/Roft-Mol.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 [RoFt-Mol: Benchmarking Robust Fine-Tuning with Molecular Graph Foundation Models](https://arxiv.org/abs/2509.00614) \\
 **Shikun Liu\***, Deyu Zou\*, Nima Shoghi, Victor Fung, Kai Liu, Pan Li. **NeurIPS 2025 D&B (spotlight)**\\
-<a href="https://arxiv.org/abs/2403.01092"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/Graph-COM/Pair-Align"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<a href="https://arxiv.org/abs/2509.00614"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/RoFt-Mol"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Pair-Align.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 </div><img src='images/graphkv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 [Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models](https://arxiv.org/abs/2506.07334) \\
 Haoyu Wang, Peihao Wang, Mufei Li, **Shikun Liu**, Siqi Miao, Zhangyang Wang, Pan Li. \\
-<a href="https://arxiv.org/abs/2403.01092"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/Graph-COM/Pair-Align"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<a href="https://arxiv.org/abs/2506.07334"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/GraphKV"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv </div><img src='images/Pair-Align.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv </div><img src='images/TSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structural Alignment Improves Graph Test-Time Adaptation](https://arxiv.org/abs/2502.18334) \\
 Hans Hao-Hsun Hsu\*, **Shikun Liu\***, Han Zhao, Pan Li. \\
-<a href="https://arxiv.org/abs/2403.01092"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/Graph-COM/Pair-Align"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<a href="https://arxiv.org/abs/2502.18334"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/TSA"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 </div><img src='images/Pair-Align.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 </div><img src='images/LLM-BP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Model generalization on text attribute graphs: Principles with large language models](https://arxiv.org/abs/2502.11836) \\
 Haoyu Wang, **Shikun Liu**, Rongzhe Wei, Pan Li. \\
-<a href="https://arxiv.org/abs/2403.01092"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/Graph-COM/Pair-Align"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<a href="https://arxiv.org/abs/2502.11836"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/LLM_BP"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 </div><img src='images/Pair-Align.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Pairwise Alignment Improves Graph Domain Adaptation](https://arxiv.org/abs/2403.01092) \\
 **Shikun Liu**, Deyu Zou, Han Zhao, Pan Li. **ICML 2024 (spotlight)** \\
