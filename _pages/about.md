@@ -26,7 +26,7 @@ Also, I am currently looking for summer 2026 internship, I’d greatly appreciat
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our paper [Roft-Mol](https://arxiv.org/abs/2509.00614) gets accepted by NeurIPS'25 Dataset and Benchmark track (spotlight)!
+- *2025.09*: &nbsp;🎉🎉 Our paper [Roft-Mol](https://arxiv.org/abs/2509.00614) and the [Graph-KV](https://arxiv.org/abs/2506.07334) lead by Haoyu gets accepted by NeurIPS'25, thanks to all my collaborators and congratulations to Haoyu and all co-authors! See you in San Diego:)
 - *2025.05*: &nbsp;🎉🎉 Our paper [LLM-BP](https://arxiv.org/abs/2502.11836) gets accepted by ICML'25!
 - *2024.09*: &nbsp;🎉🎉 Our paper [GeSS](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a8063075b00168dc39bc81683619f1a8-Abstract-Datasets_and_Benchmarks_Track.html) gets accepted by NeurIPS'25 Dataset and Benchmark track!
 - *2024.06*: &nbsp;🎉🎉 Our paper [Pair-Align](https://arxiv.org/abs/2403.01092) gets accepted by ICML'24 (spotlight)! See you in Vienna :)
