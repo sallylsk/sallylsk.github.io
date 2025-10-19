@@ -59,7 +59,7 @@ Also, I am currently looking for summer 2026 internship, I’d greatly appreciat
 <div class='paper-box-text' markdown="1">
   
 [Graph-KV: Breaking Sequence via Injecting Structural Biases into Large Language Models](https://arxiv.org/abs/2506.07334) \\
-Haoyu Wang, Peihao Wang, Mufei Li, **Shikun Liu**, Siqi Miao, Zhangyang Wang, Pan Li. \\
+Haoyu Wang, Peihao Wang, Mufei Li, **Shikun Liu**, Siqi Miao, Zhangyang Wang, Pan Li. **NeurIPS 2025**\\
 <a href="https://arxiv.org/abs/2506.07334"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/GraphKV"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
@@ -79,7 +79,7 @@ Hans Hao-Hsun Hsu\*, **Shikun Liu\***, Han Zhao, Pan Li. \\
 <div class='paper-box-text' markdown="1">
 
 [Model generalization on text attribute graphs: Principles with large language models](https://arxiv.org/abs/2502.11836) \\
-Haoyu Wang, **Shikun Liu**, Rongzhe Wei, Pan Li. \\
+Haoyu Wang, **Shikun Liu**, Rongzhe Wei, Pan Li. **ICML 2025**\\
 <a href="https://arxiv.org/abs/2502.11836"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/LLM_BP"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
@@ -99,7 +99,7 @@ Haoyu Wang, **Shikun Liu**, Rongzhe Wei, Pan Li. \\
 <div class='paper-box-text' markdown="1">
 
 [GeSS: Benchmarking Geometric Deep Learning under Scientific Applications with Distribution Shifts]([https://arxiv.org/abs/2310.08677](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a8063075b00168dc39bc81683619f1a8-Abstract-Datasets_and_Benchmarks_Track.html)) \\
-Deyu Zou\*, **Shikun Liu\***, Siqi Miao, Victor Fung, Shiyu Chang, Pan Li \\
+Deyu Zou\*, **Shikun Liu\***, Siqi Miao, Victor Fung, Shiyu Chang, Pan Li. **NeurIPS 2024 Dataset and Benchmark**\\
 <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/GDL_DS"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 </div>
