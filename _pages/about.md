@@ -20,7 +20,7 @@ redirect_from:
 # 👋 About Me
 I am a fourth-year Ph.D. student in the ML program of Geogia Tech advised by [Prof. Pan Li](https://sites.google.com/view/panli-purdue/home?authuser=0). Prior to that, I received my B.S. degree (Stat, Math and Computer Science) and my M.S. degree (Computer Science) both from Purdue University. 
 
-My research mainly focuses on the trustworthy graph/geometric learning (domain adaptation/out-of-distribution generalization) with applications in scientific problems and using LLM to model structural information.  
+My research interest includes trustworthy graph/geometric learning (domain adaptation/out-of-distribution generalization), as well as the integration of LLMs to model structural information beyond texts.  
 
 Also, I am currently looking for summer 2026 internship, I’d greatly appreciate it if you reached out about any relevant opportunities!
 
