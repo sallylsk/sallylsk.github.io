@@ -37,8 +37,6 @@ Also, I am currently open to full-time and internship opportunities. Please feel
 - *2026.01*: &nbsp;🎉🎉 Our paper [TSA](https://arxiv.org/abs/2502.18334) (lead by [Hans](https://hans66hsu.github.io/)) gets accepted by AISTATS'26!
 - *2025.09*: &nbsp;🎉🎉 Our paper [Roft-Mol](https://arxiv.org/abs/2509.00614) and the [Graph-KV](https://arxiv.org/abs/2506.07334) lead by Haoyu gets accepted by NeurIPS'25, thanks to all my collaborators and congratulations to Haoyu and all co-authors! See you in San Diego:)
 
-
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv </div><img src='images/Parallel-Synthesis.png' alt="sym" width="100%"></div></div>
