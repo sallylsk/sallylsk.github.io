@@ -20,22 +20,46 @@ redirect_from:
 # 👋 About Me
 I am a fourth-year Ph.D. student in the ML program of Geogia Tech advised by [Prof. Pan Li](https://sites.google.com/view/panli-purdue/home?authuser=0). Prior to that, I received my B.S. degree (Stat, Math and Computer Science) and my M.S. degree (Computer Science) both from Purdue University. 
 
-My research interests lie in trustworthy machine learning, with past work on domain adaptation and out-of-distribution generalization in graph and geometric learning. More recently, I have been exploring how structural information beyond text can be robustly integrated into LLMs.
+My research focuses on large language models, AI agents, and trustworthy machine learning, with a particular focus on structured information, including graph- and network-structured data, time series, etc.
 
-Also, I am currently looking for summer 2026 internship, I’d greatly appreciate it if you reached out about any relevant opportunities!
+Specifically, my work spans topics in two main directions:
+
+- **LLMs and AI Agents:** multi-agent system, KV-cache manipulation, post-training, context management, and agentic data analysis.
+- **Trustworthy ML:** domain adaptation, out-of-distribution generalization, test-time adaptation and robust fine-tuning of foundation models, for reliable graph/geometric learning.
+
+Also, I am currently open to full-time and internship opportunities. Please feel free to reach out about any relevant opportunities!
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our paper [Struc-EMB](https://arxiv.org/abs/2510.08774) is accepted by COLM'26! Thanks to all my collaborators.
+- *2026.06*: &nbsp; Our paper [Parallel-Synthesis](https://arxiv.org/abs/2606.14672) and [KVEraser](https://arxiv.org/abs/2606.17034) (lead by [Mufei](https://mufeili.github.io/)) are now available on arXiv. Feel free to check them out!
+- *2026.05*: I’m starting as a Research Scientist Intern at Meta Central Applied Science team, based in Menlo Park, CA. Would love to connect if you are around:)
+- *2026.01*: &nbsp;🎉🎉 Our paper [TSA](https://arxiv.org/abs/2502.18334) (lead by [Hans](https://hans66hsu.github.io/)) gets accepted by AISTATS'26!
 - *2025.09*: &nbsp;🎉🎉 Our paper [Roft-Mol](https://arxiv.org/abs/2509.00614) and the [Graph-KV](https://arxiv.org/abs/2506.07334) lead by Haoyu gets accepted by NeurIPS'25, thanks to all my collaborators and congratulations to Haoyu and all co-authors! See you in San Diego:)
-- *2025.05*: &nbsp;🎉🎉 Our paper [LLM-BP](https://arxiv.org/abs/2502.11836) gets accepted by ICML'25!
-- *2024.09*: &nbsp;🎉🎉 Our paper [GeSS](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a8063075b00168dc39bc81683619f1a8-Abstract-Datasets_and_Benchmarks_Track.html) gets accepted by NeurIPS'25 Dataset and Benchmark track!
-- *2024.06*: &nbsp;🎉🎉 Our paper [Pair-Align](https://arxiv.org/abs/2403.01092) gets accepted by ICML'24 (spotlight)! See you in Vienna :)
-- *2023.04*: &nbsp;🎉🎉 Our paper [StruRW](https://proceedings.mlr.press/v202/liu23u.html) gets accepted by ICML'23!
+
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv </div><img src='images/Struc-Emb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv </div><img src='images/Parallel-Synthesis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows](https://arxiv.org/abs/2606.14672) \\
+Shikun Liu, Mufei Li, Dongqi Fu, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li\\
+<a href="https://arxiv.org/abs/2606.14672"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv </div><img src='images/KVEraser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasings](https://arxiv.org/abs/2606.17034) \\
+Mufei Li, Shikun Liu, Dongqi Fu, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li\\
+<a href="https://arxiv.org/abs/2606.17034"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026 </div><img src='images/Struc-Emb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Struc-EMB: The Potential of Structure-Aware Encoding in Language Embeddings](https://arxiv.org/abs/2510.08774) \\
@@ -65,7 +89,7 @@ Haoyu Wang, Peihao Wang, Mufei Li, **Shikun Liu**, Siqi Miao, Zhangyang Wang, Pa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv </div><img src='images/TSA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2026 </div><img src='images/TSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Structural Alignment Improves Graph Test-Time Adaptation](https://arxiv.org/abs/2502.18334) \\
