@@ -43,7 +43,7 @@ Also, I am currently open to full-time and internship opportunities. Please feel
 <div class='paper-box-text' markdown="1">
 
 [Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows](https://arxiv.org/abs/2606.14672) \\
-Shikun Liu, Mufei Li, Dongqi Fu, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li\\
+**Shikun Liu**, Mufei Li, Dongqi Fu, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li\\
 <a href="https://arxiv.org/abs/2606.14672"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 </div>
 </div>
@@ -52,7 +52,7 @@ Shikun Liu, Mufei Li, Dongqi Fu, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pa
 <div class='paper-box-text' markdown="1">
 
 [KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasings](https://arxiv.org/abs/2606.17034) \\
-Mufei Li, Shikun Liu, Dongqi Fu, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li\\
+Mufei Li, **Shikun Liu**, Dongqi Fu, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li\\
 <a href="https://arxiv.org/abs/2606.17034"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 </div>
 </div>
